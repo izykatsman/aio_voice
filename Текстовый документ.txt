@@ -1,0 +1,6 @@
+main_bot='6951254431:AAHfYBe0215WIdxBF8xCZVFgfQ_NMoiO4vQ'
+bd_host='127.0.0.1'
+
+bd_login='root'
+bd_pass=''
+bd_base='voice'
